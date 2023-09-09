@@ -1,5 +1,5 @@
 <div align="center"> 
-</div>
+
  
 ![reversal](https://capsule-render.vercel.app/api?type=transparent&text=Lim%So%Yeong&fontColor=d6ace6&fontAlign=50&fontSize=56&descAlign=63&desc=welcome👋&descAlignY=85&theme=Transparent)
  
@@ -19,9 +19,11 @@
 
 ####   🏛️ 쿠다 활동 보러가기! 🏛️
 
-- [쿠다 3기 깃허브](https://github.com/khuda-3rd)
-- [쿠다 4기 깃허브](https://github.com/khuda-4th)
-- [쿠다 4기 활동 노션](https://www.notion.so/khuda/KHUDA-4th-AI-KHUDA-4-45e8834854dc4402b00b9622c3aa68ee?pvs=4)
+[쿠다 3기 깃허브](https://github.com/khuda-3rd)
+
+[쿠다 4기 깃허브](https://github.com/khuda-4th)
+
+[쿠다 4기 활동 노션](https://www.notion.so/khuda/KHUDA-4th-AI-KHUDA-4-45e8834854dc4402b00b9622c3aa68ee?pvs=4)
 
 
 
@@ -50,7 +52,7 @@
 ###### - 무신사 코디 크롤링을 활용한 색상 및 코디 추천 모델 개발 (KHUDA 3rd, 2023.03)
 ###### - 한국어를 새로 배우는 외국인 대상의 Paraphrasing 모델 제작 (KHUDA 3rd, 2023.05)
 ###### - 카페리뷰분석을 통한 카페 추천 어플리케이션 개발 (KHUDA 3rd, 2023.07)
-
+</div>
 
 
 <div align="right"> 
