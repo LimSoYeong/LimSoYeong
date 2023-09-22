@@ -13,14 +13,15 @@
 </br>
 
 ####   :running: 벨로그 최신글 보러가기 :running:
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so_yeong)](https://velog.io/@so_yeong)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so_yeong)](https://github.com/eungyeole/velog-readme-stats)
 
 </br>
 
 ####   🏛️ 쿠다 활동 보러가기! 🏛️
 
-|[쿠다 3기 깃허브](https://github.com/khuda-3rd)| [쿠다 3기 노션](https://www.notion.so/khuda/KHUDA-3-9f65e63f178747b991266efeb64e833d?pvs=4) |
+| 깃허브 | 노션 |
 |:---:|:---:|
+|[쿠다 3기 깃허브](https://github.com/khuda-3rd)| [쿠다 3기 노션](https://www.notion.so/khuda/KHUDA-3-9f65e63f178747b991266efeb64e833d?pvs=4) |
 | [쿠다 4기 깃허브](https://github.com/khuda-4th)| [쿠다 4기 노션](https://www.notion.so/khuda/KHUDA-4th-AI-KHUDA-4-45e8834854dc4402b00b9622c3aa68ee?pvs=4) |
 
 
@@ -31,9 +32,9 @@
 
 
 
-
 </div>
-
+<br>
+</br>
 </br>
 
 ##    :trophy: Awards&Honors  :trophy:
