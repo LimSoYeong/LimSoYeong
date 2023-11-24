@@ -13,7 +13,7 @@
 </br>
 
 ####   :running: 벨로그 최신글 보러가기 :running:
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so_yeong)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=so_yeong)](https://velog.io/@so_yeong)
 
 </br>
 
